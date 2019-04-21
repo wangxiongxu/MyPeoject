@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    //王旭  1808
+<group android:id="@+id/zixun">
+    <item android:id="@+id/info" android:title="@string/zixun" />
+    <item android:id="@+id/zhihu" android:title="@string/zhihu" android:icon="@mipmap/ic_drawer_zhihu" android:checkable="true" android:checked="true"/>
+    <item android:id="@+id/weChat" android:title="@string/wechat" android:icon="@mipmap/ic_web" android:checkable="true"/>
+    <item android:id="@+id/gank" android:title="@string/gank" android:icon="@mipmap/ic_drawer_gank" android:checkable="true"/>
+    <item android:id="@+id/rare" android:title="@string/rare" android:icon="@mipmap/ic_cache" android:checkable="true"/>
+    <item android:id="@+id/vtex" android:title="@string/vtex" android:icon="@mipmap/ic_drawer_vtex" android:checkable="true"/>
+</group>
+    <group android:id="@+id/options">
+        <item android:id="@+id/select" android:title="@string/select" />
+        <item android:id="@+id/collector" android:title="@string/collector" android:icon="@mipmap/ic_drawer_gank" android:checkable="true"/>
+        <item android:id="@+id/setting" android:title="@string/setting" android:icon="@mipmap/ic_close" android:checkable="true"/>
+        <item android:id="@+id/about" android:title="@string/about" android:icon="@mipmap/ic_drawer_vtex" android:checkable="true"/>
+    </group>
+</menu>

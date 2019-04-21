@@ -1,0 +1,17 @@
+
+
+include ':app',
+        //':jack31', ':jack32',
+        //':jack26', ':jack30',
+        //':jack27', ':jack28', ':jack29',
+        //':jack17', ':jack18',
+        //':jack19', ':jack20',
+        //':jack21', ':yad22', ':yad23', ':jack24', ':jack25',
+       /* ':jack1', ':jack2', ':jack3', ':jack4', ':jack5', ':jack6', ':jack7',
+        ':jack8',
+
+         ':jack9', ':jack10', ':jack11',*/
+        //':jack12', ':jack13', ':jack14',
+        ':geeknews'
+        //':jack15',
+        //':jack16'
